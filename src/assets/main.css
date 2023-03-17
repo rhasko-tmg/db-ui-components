@@ -1,0 +1,26 @@
+@import '@/assets/fonts/db-icons.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.db-icon {
+  font-family: 'icons', serif !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  font-size: inherit;
+  line-height: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.db-icon:before {
+  --webkit-backface-visibility:hidden;
+  backface-visibility: hidden;
+}

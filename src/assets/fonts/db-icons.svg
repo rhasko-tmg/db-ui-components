@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="db-icons" horiz-adv-x="24">
+    <font-face font-family="db-icons"
+      units-per-em="24" ascent="24"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="chevron-down"
+      unicode="&#xF101;"
+      horiz-adv-x="24" d=" M7 15L12 9L17 15H7z" />
+    <glyph glyph-name="chevron-right"
+      unicode="&#xF102;"
+      horiz-adv-x="24" d=" M9 7L15 12L9 17V7z" />
+    <glyph glyph-name="notifications-without-bubble"
+      unicode="&#xF103;"
+      horiz-adv-x="24" d=" M18.5 9H19C19.6 9 20 8.6 20 8C20 7.4 19.6 7 19 7H5C4.4 7 4 7.4 4 8C4 8.6 4.4 9 5 9H5.5C6.2 9.7 7 10.7 7 12V15C7 17.8 9.2 20 12 20C14.8 20 17 17.8 17 15V12C17 10.7 17.8 9.7 18.5 9z M12 4C10.9 4 10 4.9 10 6H14C14 4.9 13.1 4 12 4z" />
+  </font>
+</defs>
+</svg>

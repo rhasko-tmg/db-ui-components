@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "db-icons";
+    src: url("./db-icons.eot?934b21fc0df642c4471adf20fa6ee473?#iefix") format("embedded-opentype"),
+url("./db-icons.woff2?934b21fc0df642c4471adf20fa6ee473") format("woff2"),
+url("./db-icons.woff?934b21fc0df642c4471adf20fa6ee473") format("woff"),
+url("./db-icons.ttf?934b21fc0df642c4471adf20fa6ee473") format("truetype"),
+url("./db-icons.svg?934b21fc0df642c4471adf20fa6ee473#db-icons") format("svg");
+}
+
+i[class^="db-icon-"]:before, i[class*=" db-icon-"]:before {
+    font-family: db-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.db-icon-chevron-down:before {
+    content: "\f101";
+}
+.db-icon-chevron-right:before {
+    content: "\f102";
+}
+.db-icon-notifications-without-bubble:before {
+    content: "\f103";
+}
