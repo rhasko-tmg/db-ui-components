@@ -14,3 +14,8 @@ export enum SIZE_TYPE {
   MD = 'md',
   LG = 'lg',
 }
+
+export enum POSITION_TYPE {
+  LEFT = 'left',
+  RIGHT = 'right',
+}
